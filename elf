@@ -1,0 +1,15 @@
+
+[1mFrom:[0m /home/fitzgebt/Development/code/Phase1/ruby-music-library-cli/lib/Song.rb @ line 31 :
+
+    [1;34m26[0m:     [32mend[0m
+    [1;34m27[0m: 
+    [1;34m28[0m:     [32mdef[0m [1;36mself[0m.[1;34mcreate[0m(name)
+    [1;34m29[0m:         new_song = [1;36mself[0m.new(name)
+    [1;34m30[0m:     [32mend[0m
+ => [1;34m31[0m: binding.pry
+    [1;34m32[0m:     [1;34m# def artist=(artist)[0m
+    [1;34m33[0m:     [1;34m#     song = self[0m
+    [1;34m34[0m:     [1;34m#     Artist.add_song(song)[0m
+    [1;34m35[0m:     [1;34m# end[0m
+    [1;34m36[0m: [32mend[0m
+
